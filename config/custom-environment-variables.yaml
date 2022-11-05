@@ -1,0 +1,12 @@
+server:
+  port: APP_PORT
+  swaggerSchema: SWAGGER_SCHEMA
+  hostname: SERVER_HOSTNAME
+
+db:
+  mongodb:
+    uri: MONGODB_URI
+
+serviceAuthentication:
+  username: DOC_USERNAME
+  password: DOC_PASSWORD
